@@ -2,7 +2,7 @@
 Problem Statement
 
 This project explores buyer demand patterns in the HDB resale market to guide a property company's brokerage strategy, examined across three angles:
-**Sub Problems:*
+**Sub Problems:**
 1. High-Growth Towns :Which towns show rising resale prices and transaction volumes, pointing agents and clients toward high-opportunity locations?
 2. Flat Age vs. Resale Price :How does flat age relate to resale price, and what does this mean for valuation strategy?
 3. Impact of Cooling Measures :Did the government's Dec 2021 cooling measures make resale flats more affordable?
